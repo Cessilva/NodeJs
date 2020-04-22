@@ -1,3 +1,4 @@
+
 // Estos metodos son simples funciones ,pero realmente no los podemos usar fuera 
 // de aqui por lo que debemos exportarlas 
 

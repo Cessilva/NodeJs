@@ -1,3 +1,4 @@
+  
 // Importacion de archivos,necesitamos el modulo math
 // Creamos una constante con la que haremos uso del modulo
 const math = require('./math.js');
@@ -5,7 +6,6 @@ const math = require('./math.js');
 
 // Solo para ver lo que contiene nuestro archivo math
 console.log(math);
-
 /*
     {
     sumar: [Function: add],
